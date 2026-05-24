@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "11114425567",
+    "firebase_url": "https://notespro-c3d4d-default-rtdb.firebaseio.com",
+    "project_id": "notespro-c3d4d",
+    "storage_bucket": "notespro-c3d4d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11114425567:android:02e22442cb7a107f470d6a",
+        "android_client_info": {
+          "package_name": "com.notes.notesproxmlviews"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMROWgi5f44Fu-UDkaJr1rQkgReEADBnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
